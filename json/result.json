@@ -1,0 +1,24 @@
+[
+  {"number":"345DF543A",
+    "date":"14-05-2017",
+    "card":{
+              "number":"4323 4534 6576 8788",
+              "balance":4565.34,
+              "type":"gold",
+              "customer":{
+                      "name":"Bob Smith",
+                      "dateOfBirth":"27-10-1994",
+                      "gender":"male",
+                      "personalInfo":{
+                          "phoneNumber":"896057546456",
+                          "email":"silverspring@gmail.com"
+                      }
+              }
+    },
+    "product":{
+              "name":"cookies Bets",
+              "price":12.5
+    },
+    "salaryWithPrivilege":12.3
+  }
+]
