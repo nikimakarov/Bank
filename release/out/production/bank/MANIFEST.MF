@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: lib/gson-2.8.0.jar lib/slf4j-ext-1.7.12.jar lib/slf4j-api-1.7.12.jar lib/cal10n-api-0.8.1.jar
-Created-By: 1.0.0 (Nikita Makarov)
-Main-Class: edu.core.java.bank.Main
